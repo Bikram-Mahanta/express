@@ -18,6 +18,10 @@
 * [Triagers](#triagers)
 * [License](#license)
 
+# Bikram Mahanta
+
+# Installation
+
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
